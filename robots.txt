@@ -4,7 +4,4 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
-User-agent: GPTBot
-Disallow: /
-
 Sitemap: https://www.dgitpoint.com/sitemap.xml
