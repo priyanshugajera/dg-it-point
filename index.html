@@ -10307,13 +10307,16 @@ html[data-theme="light"] .topbar.dg-nav-hidden {
 			</div>
 		  </section>
 		</main>
-		<button
-		  aria-label="Send project enquiry on WhatsApp"
+		<a
+		  aria-label="Chat with DG it Point on WhatsApp"
 		  class="wa-float"
 		  id="waFloat"
+		  href="https://wa.me/918866229996"
+		  target="_blank"
+		  rel="noopener noreferrer"
 		>
 		  <i class="fa-brands fa-whatsapp"></i><span>Chat with DG it Point</span>
-		</button>
+		</a>
 		<div aria-hidden="true" class="wa-modal" id="waModal">
 		  <div class="wa-box glass">
 			<button aria-label="Close" class="wa-close" id="waClose">
@@ -10483,7 +10486,7 @@ html[data-theme="light"] .topbar.dg-nav-hidden {
 			waModal.classList.remove("open");
 			waModal.setAttribute("aria-hidden", "true");
 		  };
-		  document.getElementById("waFloat").addEventListener("click", openWa);
+		  
 		  document.getElementById("openWa").addEventListener("click", openWa);
 		  document.getElementById("waClose").addEventListener("click", closeWa);
 		  waModal.addEventListener("click", (e) => {
