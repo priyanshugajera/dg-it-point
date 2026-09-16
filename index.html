@@ -10274,7 +10274,7 @@ html[data-theme="light"] .topbar.dg-nav-hidden {
 				  </a>
 				  <a class="contact-link" href="https://wa.me/918866229996" rel="noopener" target="_blank">
 					<i class="fa-brands fa-whatsapp"></i
-					><span><b>WhatsApp</b><br />+91 99245 21944</span>
+					><span><b>WhatsApp</b><br />+91 88662 29996</span>
 				  </a>
 				  <button
 					class="contact-link"
@@ -10306,13 +10306,16 @@ html[data-theme="light"] .topbar.dg-nav-hidden {
 			</div>
 		  </section>
 		</main>
-		<button
-		  aria-label="Send project enquiry on WhatsApp"
-		  class="wa-float"
-		  id="waFloat"
-		>
-		  <i class="fa-brands fa-whatsapp"></i><span>Chat with DG it Point</span>
-		</button>
+		<a
+          aria-label="Chat with DG it Point on WhatsApp"
+          class="wa-float"
+          id="waFloat"
+          href="https://wa.me/918866229996"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i class="fa-brands fa-whatsapp"></i><span>Chat with DG it Point</span>
+        </a>
 		<div aria-hidden="true" class="wa-modal" id="waModal">
 		  <div class="wa-box glass">
 			<button aria-label="Close" class="wa-close" id="waClose">
@@ -10331,7 +10334,7 @@ html[data-theme="light"] .topbar.dg-nav-hidden {
 			<p class="wa-note">
 			  No backend required. This form opens WhatsApp with your filled details
 			  and sends the message directly to
-			  <b style="color: var(--text)">+91 99245 21944</b>.
+			  <b style="color: var(--text)">+91 88662 29996</b>.
 			</p>
 			<form class="wa-form" id="waForm">
 			  <input id="waName" placeholder="Your name" required="" />
@@ -10482,12 +10485,7 @@ html[data-theme="light"] .topbar.dg-nav-hidden {
 			waModal.classList.remove("open");
 			waModal.setAttribute("aria-hidden", "true");
 		  };
-		  document.getElementById("waFloat").addEventListener("click", openWa);
-		  document.getElementById("openWa").addEventListener("click", openWa);
-		  document.getElementById("waClose").addEventListener("click", closeWa);
-		  waModal.addEventListener("click", (e) => {
-			if (e.target === waModal) closeWa();
-		  });
+		  
 		  document.getElementById("waForm").addEventListener("submit", (e) => {
 			e.preventDefault();
 			const name = document.getElementById("waName").value.trim();
