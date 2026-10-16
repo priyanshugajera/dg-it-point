@@ -1,10 +1,361 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.dgitpoint.com/</loc>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-10-16</lastmod>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/dg-it-point-logo.png</image:loc>
+      <image:title>DG it Point official logo</image:title>
+      <image:caption>Official logo for DG it Point, an AI and IT solutions company serving Amreli, Ahmedabad, Gujarat and India.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/dg-it-point-logo.webp</image:loc>
+      <image:title>DG it Point logo in WebP format</image:title>
+      <image:caption>DG it Point official brand logo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/dg-it-point-exact-mockup.webp</image:loc>
+      <image:title>DG it Point interactive website mockup</image:title>
+      <image:caption>Screenshot mockup of DG it Point website and digital experience work.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/DHRUMIL.jpeg</image:loc>
+      <image:title>Dhrumil Dhanani, Co-Founder and COO</image:title>
+      <image:caption>Founder portrait of Dhrumil Dhanani, Co-Founder and COO of DG it Point.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/priyanshu.jpg</image:loc>
+      <image:title>Priyanshu Gajera, Founder and CEO of DG it Point</image:title>
+      <image:caption>Portrait of Priyanshu Gajera, also listed as Gajera Priyanshu, Founder and CEO of DG it Point.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/karan.webp</image:loc>
+      <image:title>Gamara Karan, Co-Founder and CTO</image:title>
+      <image:caption>Founder portrait of Gamara Karan, Co-Founder and CTO of DG it Point.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/videos/dg-it-point-launch-poster.webp</image:loc>
+      <image:title>Introducing DG it Point launch film poster</image:title>
+      <image:caption>Poster frame for the official DG it Point launch video.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/videos/dg-it-point-community-thank-you-poster.webp</image:loc>
+      <image:title>DG it Point community thank-you video poster</image:title>
+      <image:caption>Poster frame for DG it Point thank-you video for Amreli and Gujarat.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_1.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 01</image:title>
+      <image:caption>Gujarati press feature about three young entrepreneurs launching DG it Point in Amreli, highlighting the founders and technology services.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_2.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 02</image:title>
+      <image:caption>Gujarati newspaper coverage of DG it Point launch and the founders behind the Amreli-based IT company.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_3.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 03</image:title>
+      <image:caption>Gujarati newspaper feature announcing DG it Point, its three founders, and the company’s launch in Amreli and Ahmedabad.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_4.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 04</image:title>
+      <image:caption>Gujarati press article covering DG it Point founders, technology services, and the company launch.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_5.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 05</image:title>
+      <image:caption>Gujarati feature about the young founders of DG it Point and their software and digital technology company.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_6.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 06</image:title>
+      <image:caption>Kathiyawad Khabar press clipping about DG it Point and its founders in Gujarat.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_7.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 07</image:title>
+      <image:caption>DG it Point promotional company profile describing its technology services and founding team.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_8.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 08</image:title>
+      <image:caption>Amreli24 media feature introducing DG it Point and its founders to the local community.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_9.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 09</image:title>
+      <image:caption>Sanjog News Gujarati newspaper coverage featuring DG it Point and its founding team.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_10.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 10</image:title>
+      <image:caption>Gujarati publication feature outlining DG it Point services, leadership, and digital technology work.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_11.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 11</image:title>
+      <image:caption>Gujarati newspaper article about DG it Point software, website, application, and digital product services.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_12.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 12</image:title>
+      <image:caption>DG it Point promotional poster highlighting its technology company launch and founder profile.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_13.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 13</image:title>
+      <image:caption>Amreli Media feature presenting DG it Point and its founders to local readers.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_14.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 14</image:title>
+      <image:caption>Amreli Media Gujarati press coverage about DG it Point and its technology services.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_15.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 15</image:title>
+      <image:caption>At This Time Media Gujarati news clipping featuring DG it Point and its founders.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_16.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 16</image:title>
+      <image:caption>Gujarati press clipping about DG it Point and its launch as a technology company.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_17.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 17</image:title>
+      <image:caption>Gujarati newspaper coverage introducing DG it Point and its founders to Amreli and Ahmedabad readers.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_18.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 18</image:title>
+      <image:caption>Gujarati newspaper report about DG it Point’s company launch and its founding team.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_19.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 19</image:title>
+      <image:caption>Kathiyawad Khabar Gujarati press coverage featuring DG it Point and its company story.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_20.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 20</image:title>
+      <image:caption>Gujarati news feature about DG it Point and the company’s three founders.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_21.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 21</image:title>
+      <image:caption>Colorful DG it Point company brochure with its founders, service overview, and contact branding.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_22.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 22</image:title>
+      <image:caption>Gujarati newspaper feature about DG it Point and the company’s young founders.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_23.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 23</image:title>
+      <image:caption>Kathiyawad Khabar article featuring DG it Point and its launch story in Gujarat.</image:caption>
+    </image:image>
   </url>
-
+  <url>
+    <loc>https://www.dgitpoint.com/founders/priyanshu-gajera.html</loc>
+    <lastmod>2026-10-16</lastmod>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/priyanshu.jpg</image:loc>
+      <image:title>Priyanshu Gajera founder profile portrait</image:title>
+      <image:caption>Portrait of Priyanshu Gajera, Founder and CEO of DG it Point.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_1.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 01</image:title>
+      <image:caption>Gujarati press feature about three young entrepreneurs launching DG it Point in Amreli, highlighting the founders and technology services.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_3.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 03</image:title>
+      <image:caption>Gujarati newspaper feature announcing DG it Point, its three founders, and the company’s launch in Amreli and Ahmedabad.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_5.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 05</image:title>
+      <image:caption>Gujarati feature about the young founders of DG it Point and their software and digital technology company.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_6.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 06</image:title>
+      <image:caption>Kathiyawad Khabar press clipping about DG it Point and its founders in Gujarat.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_8.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 08</image:title>
+      <image:caption>Amreli24 media feature introducing DG it Point and its founders to the local community.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_13.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 13</image:title>
+      <image:caption>Amreli Media feature presenting DG it Point and its founders to local readers.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_14.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 14</image:title>
+      <image:caption>Amreli Media Gujarati press coverage about DG it Point and its technology services.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_20.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 20</image:title>
+      <image:caption>Gujarati news feature about DG it Point and the company’s three founders.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_23.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 23</image:title>
+      <image:caption>Kathiyawad Khabar article featuring DG it Point and its launch story in Gujarat.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.dgitpoint.com/press-coverage.html</loc>
+    <lastmod>2026-10-16</lastmod>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_1.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 01</image:title>
+      <image:caption>Gujarati press feature about three young entrepreneurs launching DG it Point in Amreli, highlighting the founders and technology services.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_2.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 02</image:title>
+      <image:caption>Gujarati newspaper coverage of DG it Point launch and the founders behind the Amreli-based IT company.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_3.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 03</image:title>
+      <image:caption>Gujarati newspaper feature announcing DG it Point, its three founders, and the company’s launch in Amreli and Ahmedabad.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_4.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 04</image:title>
+      <image:caption>Gujarati press article covering DG it Point founders, technology services, and the company launch.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_5.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 05</image:title>
+      <image:caption>Gujarati feature about the young founders of DG it Point and their software and digital technology company.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_6.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 06</image:title>
+      <image:caption>Kathiyawad Khabar press clipping about DG it Point and its founders in Gujarat.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_7.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 07</image:title>
+      <image:caption>DG it Point promotional company profile describing its technology services and founding team.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_8.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 08</image:title>
+      <image:caption>Amreli24 media feature introducing DG it Point and its founders to the local community.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_9.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 09</image:title>
+      <image:caption>Sanjog News Gujarati newspaper coverage featuring DG it Point and its founding team.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_10.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 10</image:title>
+      <image:caption>Gujarati publication feature outlining DG it Point services, leadership, and digital technology work.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_11.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 11</image:title>
+      <image:caption>Gujarati newspaper article about DG it Point software, website, application, and digital product services.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_12.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 12</image:title>
+      <image:caption>DG it Point promotional poster highlighting its technology company launch and founder profile.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_13.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 13</image:title>
+      <image:caption>Amreli Media feature presenting DG it Point and its founders to local readers.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_14.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 14</image:title>
+      <image:caption>Amreli Media Gujarati press coverage about DG it Point and its technology services.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_15.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 15</image:title>
+      <image:caption>At This Time Media Gujarati news clipping featuring DG it Point and its founders.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_16.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 16</image:title>
+      <image:caption>Gujarati press clipping about DG it Point and its launch as a technology company.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_17.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 17</image:title>
+      <image:caption>Gujarati newspaper coverage introducing DG it Point and its founders to Amreli and Ahmedabad readers.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_18.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 18</image:title>
+      <image:caption>Gujarati newspaper report about DG it Point’s company launch and its founding team.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_19.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 19</image:title>
+      <image:caption>Kathiyawad Khabar Gujarati press coverage featuring DG it Point and its company story.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_20.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 20</image:title>
+      <image:caption>Gujarati news feature about DG it Point and the company’s three founders.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_21.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 21</image:title>
+      <image:caption>Colorful DG it Point company brochure with its founders, service overview, and contact branding.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_22.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 22</image:title>
+      <image:caption>Gujarati newspaper feature about DG it Point and the company’s young founders.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/news-gallery/DG_it_point_news_23.jpeg</image:loc>
+      <image:title>DG it Point press coverage image 23</image:title>
+      <image:caption>Kathiyawad Khabar article featuring DG it Point and its launch story in Gujarat.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.dgitpoint.com/privacy.html</loc>
+    <lastmod>2026-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dgitpoint.com/terms.html</loc>
+    <lastmod>2026-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dgitpoint.com/videos/dg-it-point-launch.html</loc>
+    <lastmod>2026-10-16</lastmod>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/videos/dg-it-point-launch-poster.webp</image:loc>
+      <image:title>Introducing DG it Point launch video thumbnail</image:title>
+      <image:caption>Thumbnail for the official DG it Point launch film.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.dgitpoint.com/videos/thank-you-amreli-gujarat.html</loc>
+    <lastmod>2026-10-16</lastmod>
+    <image:image>
+      <image:loc>https://www.dgitpoint.com/assets/videos/dg-it-point-community-thank-you-poster.webp</image:loc>
+      <image:title>DG it Point thank-you community video thumbnail</image:title>
+      <image:caption>Thumbnail for the video thanking the people of Amreli and Gujarat.</image:caption>
+    </image:image>
+  </url>
 </urlset>

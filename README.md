@@ -43,3 +43,21 @@ The existing static WhatsApp enquiry remains, targeting +91 99245 21944; there i
 - Founder, project, trust, process, testimonial and contact cards retain the same full outer live border treatment.
 
 Updated 2026-08-26: exact supplied laptop+phone mockup image used in hero with live scrolling website overlays; ordered gold-dust lines; animated single outer card borders; transparent logo PNG background removed.
+
+## Cinematic video stories and SEO maintenance — 2026-10-16
+- Polished the two-card video section directly below News & Media using the existing black, royal-purple and gold identity, layered ambient lighting, subtle perspective geometry, animated border glow and reduced-motion fallbacks.
+- Kept portrait 9:16 video frames capped at a moderate desktop size and responsive on narrow screens.
+- Added visibility-aware muted autoplay, pause/resume when the cards or browser tab are not visible, and sound exclusivity so only one video can play with sound at a time. Native video controls remain available.
+- Preserved the current English video copy and exact planned MP4 filenames. The MP4 files are not included in this ZIP and must be supplied separately.
+- Added canonical and descriptive metadata to the Privacy and Terms pages, marked the preview utility noindex, and included the canonical public pages in the XML sitemap.
+- Removed one duplicate HTML id. Existing crawler policy remains unchanged.
+- Did not fabricate VideoObject schema or video sitemap entries because the final videos and approved thumbnails are not present yet. Add real upload dates, durations and thumbnail URLs after the assets are supplied.
+
+
+## v7 SEO and founder/media landing pages
+- `/founders/priyanshu-gajera.html` is the dedicated founder entity profile.
+- `/press-coverage.html` is the indexable archive for the 23 original press-gallery images.
+- `sitemap.xml` includes image titles/captions and new page URLs; `video-sitemap.xml` covers the two watch pages.
+- Homepage visible copy and original JPEG/MP4 source assets were preserved.
+- Submit updated sitemaps in Google Search Console after deployment. Search placement/indexing are external outcomes, not guaranteed by source changes.
+- The actual first-publication dates for both videos should be verified before adding Google `VideoObject.uploadDate`.

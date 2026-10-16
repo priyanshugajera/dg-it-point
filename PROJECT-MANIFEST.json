@@ -1,7 +1,12 @@
 {
   "base_zip": "DG_it_Point_FULL_3D_GitHub_Pages_FINAL(3).zip",
   "reference_media_used": false,
-  "video_assets": [],
+  "video_assets": [
+    "assets/videos/dg-it-point-launch.mp4 (web-optimized portrait video)",
+    "assets/videos/dg-it-point-community-thank-you.mp4 (web-optimized portrait video)",
+    "assets/videos/dg-it-point-launch-poster.webp",
+    "assets/videos/dg-it-point-community-thank-you-poster.webp"
+  ],
   "new_assets": [
     "assets/founder-priyanshu.svg",
     "assets/founder-karan.svg",
@@ -11,5 +16,17 @@
   "desktop_project_columns": 3,
   "intro": "CSS/JS 3D logo intro",
   "hero": "Own-site mini live overview + code rotation",
-  "last_update": "2026-08-26 premium polish: single outer purple+gold card frame, enlarged flat intro logo with gold particles, full-web animated gold dust, light-theme royal-purple text accents, premium overlapping MacBook + phone mockup, slow smooth live-preview auto-scroll."
+  "last_update": "2026-10-16 v7: increased mobile-only inter-card gap so the second lamp stays with its own video; added indexable Priyanshu Gajera profile and press-coverage archive; improved image sitemap captions, AI retrieval references, and video lazy-start network behavior; source media untouched. Static QA: 8 HTML pages, 5 JSON-LD blocks, 12 JS blocks, 59 CSS blocks, no missing local refs or duplicate IDs; visual browser test blocked in this environment.",
+  "video_section_version": "v6 - desktop unchanged; mobile lamp beam fades before each card with more breathing room; image descriptions and retrieval inventory refined",
+  "seo_assets": [
+    "sitemap.xml (homepage, founder profile, press-coverage archive, videos, and descriptive image captions)",
+    "video-sitemap.xml (2 dedicated video watch pages)",
+    "founders/priyanshu-gajera.html (ProfilePage + Person schema)",
+    "press-coverage.html (23 original press images with CollectionPage + ItemList schema)",
+    "llms.txt (verified entity, dedicated media page references, and retrieval accuracy guidelines)",
+    "robots.txt (explicit search/AI-discovery crawler policy; existing training opt-outs retained)",
+    "QA-SEO-REPORT-v7.md (implemented changes, validation and external dependencies)",
+    "QA-STATIC-VALIDATION-v7.txt (local source validation counts and limitations)"
+  ],
+  "version": "v7"
 }

@@ -1,0 +1,10 @@
+HTML pages parsed: 8
+JSON-LD script blocks parsed: 5
+Inline JavaScript blocks syntax-checked: 12
+HTML inline CSS style blocks parsed: 59
+Sitemap URLs: 7; image references: 66; video pages: 2; video entries: 2
+Press archive images: 23; founder profile name: Priyanshu Gajera
+Missing local references: 0
+Duplicate IDs by page: {}
+CSS parser errors: []
+Original asset byte mismatches vs v6 source ZIP: []
