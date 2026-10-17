@@ -99,3 +99,8 @@ Google News eligibility depends on actual editorial publishing and platform syst
 - Do not invent client names, awards, certifications, addresses, results, revenue, staff numbers or ranking positions.
 - Search engines and AI assistants independently decide what to crawl, cite, recommend or rank. This file does not guarantee citation or placement.
 - For publication/news coverage, distinguish gallery images and press clippings from original editorial articles with verified dates and bylines.
+
+## Founder profiles
+- Priyanshu Gajera — Founder & CEO: https://www.dgitpoint.com/founders/priyanshu-gajera.html
+- Gamara Karan — Co-Founder & CTO: https://www.dgitpoint.com/founders/gamara-karan.html
+- Dhrumil Dhanani — Co-Founder & COO: https://www.dgitpoint.com/founders/dhrumil-dhanani.html

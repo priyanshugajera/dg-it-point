@@ -1,0 +1,9 @@
+videos/dg-it-point-launch.html: JSON-LD valid (1 block(s))
+videos/thank-you-amreli-gujarat.html: JSON-LD valid (1 block(s))
+founders/priyanshu-gajera.html: JSON-LD valid (1 block(s))
+founders/gamara-karan.html: JSON-LD valid (1 block(s))
+founders/dhrumil-dhanani.html: JSON-LD valid (1 block(s))
+sitemap.xml: valid XML
+video-sitemap.xml: valid XML
+founders/gamara-karan.html: canonical + Person/ProfilePage present
+founders/dhrumil-dhanani.html: canonical + Person/ProfilePage present

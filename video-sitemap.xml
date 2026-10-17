@@ -6,6 +6,7 @@
     <video:video>
       <video:thumbnail_loc>https://www.dgitpoint.com/assets/videos/dg-it-point-launch-poster.webp</video:thumbnail_loc>
       <video:title>Introducing DG IT Point — Launch Film</video:title>
+      <video:publication_date>2026-10-16T00:00:00+05:30</video:publication_date>
       <video:description>The official DG it Point launch film introducing the company and its digital technology work.</video:description>
       <video:content_loc>https://www.dgitpoint.com/assets/videos/dg-it-point-launch.mp4</video:content_loc>
       <video:duration>25</video:duration>
@@ -18,6 +19,7 @@
     <video:video>
       <video:thumbnail_loc>https://www.dgitpoint.com/assets/videos/dg-it-point-community-thank-you-poster.webp</video:thumbnail_loc>
       <video:title>Thank You, Amreli &amp; Gujarat — Community Story</video:title>
+      <video:publication_date>2026-10-16T00:00:00+05:30</video:publication_date>
       <video:description>DG it Point thanks the people of Amreli and Gujarat for their support and encouragement across social media.</video:description>
       <video:content_loc>https://www.dgitpoint.com/assets/videos/dg-it-point-community-thank-you.mp4</video:content_loc>
       <video:duration>41</video:duration>
