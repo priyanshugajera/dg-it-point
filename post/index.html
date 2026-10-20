@@ -50,7 +50,7 @@ async function makeBlob(){
   for(let i=0;i<binary.length;i++)bytes[i]=binary.charCodeAt(i);
   return new Blob([bytes],{type:'image/png'});
 }
-const POSTER_FILENAME='DG-IT-Point-Kathiyawad-Bhavan-Poster.png';
+const POSTER_FILENAME='DG-IT-Point-kathiyawad.jpg';
 function saveBlob(blob,filename=POSTER_FILENAME){
   if(window.navigator&&typeof navigator.msSaveOrOpenBlob==='function'){navigator.msSaveOrOpenBlob(blob,filename);return}
   const url=URL.createObjectURL(blob);
